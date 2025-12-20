@@ -1,5 +1,5 @@
 # Security Researcher
-I break Android apps, web APIs, and networks by exploiting real-world misconfigurations. My work focuses on hands-on exploitation, combining reverse engineering with dynamic analysis to uncover practically exploitable vulnerabilities.
+I break Android apps, web APIs, and networks by exploiting real-world misconfigurations. My work focuses on hands-on exploitation, combining reverse engineering with dynamic analysis to uncover practically exploitable vulnerabilities. Only with a contract.
 
 ## Focus Areas
 * **Android Security:** Reverse engineering APKs (Smali/Java) and native .so libraries; Bypassing SSL Pinning, Root detection, and Integrity/anti-tampering checks; Identifying insecure data storage and sensitive data exposure.
